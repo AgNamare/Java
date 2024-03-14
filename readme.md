@@ -1,0 +1,1 @@
+Created a new farm management application class that is used to make the GUI
